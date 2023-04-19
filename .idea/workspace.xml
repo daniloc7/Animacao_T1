@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="988c220e-dd50-4600-8d24-5b9698e88006" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Animacao_T1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ONZ6uBtUUQWLddzkpuBLIjLUk6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Curso-em-video" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\danil\PycharmProjects\Animacao_T1\testes" />
+      <recent name="C:\Users\danil\PycharmProjects\Animacao_T1" />
+      <recent name="C:\Users\danil\PycharmProjects\Animacao_T1\images" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.animacao">
+    <configuration name="animacao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Animacao_T1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/animacao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aprender_movimento" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Animacao_T1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\danil\PycharmProjects\Animacao_T1\testes\aprender_movimento.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="problema_atv1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Animacao_T1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/problema_atv1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Animacao_T1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\danil\PycharmProjects\Animacao_T1\testes\teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste_imprimir_dados" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Animacao_T1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste_imprimir_dados.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.animacao" />
+        <item itemvalue="Python.aprender_movimento" />
+        <item itemvalue="Python.problema_atv1" />
+        <item itemvalue="Python.teste" />
+        <item itemvalue="Python.teste_imprimir_dados" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="988c220e-dd50-4600-8d24-5b9698e88006" name="Default Changelist" comment="" />
+      <created>1681402827150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681402827150</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="333" y="121" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1681860341236">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="333" y="121" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/-1366.183.1366.728@0.0.1280.680" timestamp="1681860341236" />
+    <state x="309" y="24" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1681859555919">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="309" y="24" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/-1366.183.1366.728@0.0.1280.680" timestamp="1681859555918" />
+    <state x="371" y="34" key="FileChooserDialogImpl" timestamp="1681402895634">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="34" key="FileChooserDialogImpl/0.0.1280.680/-1366.183.1366.728@0.0.1280.680" timestamp="1681402895634" />
+    <state width="1253" height="46" key="GridCell.Tab.0.bottom" timestamp="1681865409357">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1253" height="46" key="GridCell.Tab.0.bottom/0.0.1280.680/-1366.183.1366.728@0.0.1280.680" timestamp="1681865409357" />
+    <state width="1253" height="188" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1681770269586" />
+    <state width="1253" height="46" key="GridCell.Tab.0.center" timestamp="1681865409357">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1253" height="46" key="GridCell.Tab.0.center/0.0.1280.680/-1366.183.1366.728@0.0.1280.680" timestamp="1681865409357" />
+    <state width="1253" height="188" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1681770269586" />
+    <state width="1253" height="46" key="GridCell.Tab.0.left" timestamp="1681865409357">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1253" height="46" key="GridCell.Tab.0.left/0.0.1280.680/-1366.183.1366.728@0.0.1280.680" timestamp="1681865409357" />
+    <state width="1253" height="188" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1681770269586" />
+    <state width="1253" height="46" key="GridCell.Tab.0.right" timestamp="1681865409357">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1253" height="46" key="GridCell.Tab.0.right/0.0.1280.680/-1366.183.1366.728@0.0.1280.680" timestamp="1681865409357" />
+    <state width="1253" height="188" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1681770269586" />
+    <state x="34" y="0" key="SettingsEditor" timestamp="1681499534182">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="34" y="0" key="SettingsEditor/0.0.1280.680/-1366.183.1366.728@0.0.1280.680" timestamp="1681499534182" />
+    <state x="-1413" y="172" width="1231" height="639" maximized="true" key="dock-window-1" timestamp="1681663578385">
+      <screen x="-1366" y="183" width="1366" height="728" />
+    </state>
+    <state x="-1413" y="172" width="1231" height="639" maximized="true" key="dock-window-1/0.0.1280.680/-1366.183.1366.728@0.0.1280.680" timestamp="1681663578385" />
+    <state x="93" y="93" width="1095" height="495" key="dock-window-2" timestamp="1681501878431">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="dock-window-2/0.0.1280.680/-1366.183.1366.728@0.0.1280.680" timestamp="1681501878431" />
+    <state x="219" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1681496496774">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="219" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1280.680/-1366.183.1366.728@0.0.1280.680" timestamp="1681496496774" />
+  </component>
+</project>
